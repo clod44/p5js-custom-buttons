@@ -1,5 +1,5 @@
 # p5js-custom-buttons
-[project link](https://editor.p5js.org/rt.sayochi/sketches/qsTrCqQkB)\
+[project link](https://editor.p5js.org/rt.sayochi/sketches/qsTrCqQkB)
 
 This is a javascript class depended on [p5js](https://p5js.org/get-started/) which can quickly create nice buttons.\
 ![gif](https://github.com/clod44/p5js-custom-buttons/blob/master/custombuttons.gif)
