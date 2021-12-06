@@ -17,7 +17,8 @@ keep in mind that:
                     someOnClickFunction.bind(null,argsForFunction));
 
 
-
+```
+```
 //Extra Configurations
   btn2 = new Button([posX, posY],
                     [sizeX, sizeY],
